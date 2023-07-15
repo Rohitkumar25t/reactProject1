@@ -1,7 +1,7 @@
 {
   "name": "project-1",
   "private": true,
-  "homepage": "https://rohitkumar25t.github.io/reactProject1/",
+  "homepage": "http://Rohitkumar25t/github.io/reactProject1",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy" : "npm run build",
-    "deploy": "gh-pages -d PROJECT-1"
+    "deploy": "gh-pages -d reactProject1"
   },
   "dependencies": {
     "react": "^18.2.0",
